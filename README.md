@@ -10,7 +10,7 @@ For Homework 2, we will be implementing an unordered list.
 To install GTests on your hub instances and enable local test development, run:
 ```sudo apt-get install -y libgtest-dev libgmock-dev```
 
-## Submit to GradeScope
+## Submit to Gradescope
 
 Each homework submission will follow the same general pattern and should always have the
 following folder structure:
